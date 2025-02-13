@@ -1,0 +1,4 @@
+Routing in react 
+******************
+-routing is nothing but navigation btw 2 pages without reloading the webpage .
+-routing is not a part off react but we are 
